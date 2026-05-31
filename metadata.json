@@ -1,0 +1,6 @@
+{
+  "name": "餐具账本 OCR 调试助手",
+  "description": "餐具记录单纸质账本 OCR 测试应用",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
